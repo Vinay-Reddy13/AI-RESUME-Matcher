@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: 
+    driver-class-name: org.h2.Driver
+  
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+  
+  web:
+    cors:
+      allowed-origins: "http://localhost:5173"
+
+logging:
+  level:
+    com.example.matcher: DEBUG
+    org.springframework.web: WARN
+    org.hibernate.SQL: WARN
+

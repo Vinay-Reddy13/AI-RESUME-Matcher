@@ -1,0 +1,44 @@
+ abc
+Software Engineer
+Email: abc@gmail.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/abc
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 1+ years of experience in full-stack development, specializing in Java, Spring Boot, and microservices architecture. Proven track record of building scalable web applications and leading development teams. Strong background in cloud technologies and agile methodologies.
+
+TECHNICAL SKILLS
+• Programming Languages: Java, Python, JavaScript, TypeScript, SQL
+• Frameworks: Spring Boot, Spring Security, React, Node.js, Express.js
+• Databases: PostgreSQL, MySQL, MongoDB, Redis
+• Cloud Platforms: AWS (EC2, S3, RDS, Lambda), Google Cloud Platform
+• Tools: Docker, Kubernetes, Git, Jenkins, Maven, Gradle
+• Methodologies: Agile, Scrum, Test-Driven Development
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer | StartupXYZ | 2023 - 2024
+• Developed full-stack web applications using Java, Spring Boot, and React
+• Built and maintained PostgreSQL databases with complex queries
+• Implemented CI/CD pipelines using Jenkins and Docker
+• Participated in agile development processes and sprint planning
+• Contributed to open-source projects and technical documentation
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2019 - 2023
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+• Oracle Certified Professional Java SE 11 Developer (2025)
+
+PROJECTS
+• E-commerce Platform: Built scalable online marketplace using Spring Boot, React, and PostgreSQL
+• Task Management System: Developed collaborative project management tool with real-time updates
+• API Gateway: Designed and implemented microservices gateway with authentication and rate limiting
+
+ACHIEVEMENTS
+• Led team that reduced application response time by 50%
+• Implemented security measures that achieved SOC 2 compliance
+• Contributed to company's transition from monolithic to microservices architecture
+

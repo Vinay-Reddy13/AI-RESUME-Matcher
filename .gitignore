@@ -1,0 +1,69 @@
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# Docker
+.dockerignore
+
+# Data files (keep structure but ignore large files)
+data/*.faiss
+data/*.parquet
+data/*.pkl
+
+# Temporary files
+tmp/
+temp/
+
